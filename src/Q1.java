@@ -20,6 +20,7 @@ public class Q1 {
 
     public static void main(String[] args) throws IOException {
         Scanner scan = new Scanner(System.in);
+
         System.out.println("Qual o nome do arquivo?");
         String arq = scan.nextLine();
 
